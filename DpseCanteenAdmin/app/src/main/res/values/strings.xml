@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">DpseCanteenAdmin</string>
+    <string name="tap_id_card">Tap ID Card</string>
 </resources>
