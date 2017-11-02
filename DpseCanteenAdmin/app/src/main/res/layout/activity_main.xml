@@ -10,7 +10,7 @@
         android:id="@+id/imageView3"
         android:layout_width="193dp"
         android:layout_height="176dp"
-        app:srcCompat="@mipmap/idCard"
+        app:srcCompat="@mipmap/id_card"
         android:layout_marginRight="8dp"
         app:layout_constraintRight_toRightOf="@+id/tap_card"
         android:layout_marginLeft="0dp"
